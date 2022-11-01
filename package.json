@@ -1,0 +1,21 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "description": "In this project I am creating a note taker using express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nftgoat/Express.js-note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nftgoat/Express.js-note-taker/issues"
+  },
+  "homepage": "https://github.com/nftgoat/Express.js-note-taker#readme"
+}
