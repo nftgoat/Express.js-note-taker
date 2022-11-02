@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nftgoat/Express.js-note-taker/issues"
   },
-  "homepage": "https://github.com/nftgoat/Express.js-note-taker#readme"
+  "homepage": "https://github.com/nftgoat/Express.js-note-taker#readme",
+  "dependencies": {
+    "heroku": "^7.65.0"
+  }
 }
