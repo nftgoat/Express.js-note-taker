@@ -22,4 +22,4 @@ const writeToFile = (destination, content) =>
     });
   };
   
-  module.exports = { readFromFile, writeToFile, readAndAppend };
+  module.exports = {readFromFile, writeToFile, readAndAppend};
